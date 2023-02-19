@@ -30,3 +30,8 @@ Message_Panel:
 Chat_box:
 ![message](https://user-images.githubusercontent.com/107204875/219955382-cfb968ce-c822-4f79-85a1-c14b42f564e8.jpg)
 
+Collobraters:
+Mehta Kevan
+Jadeja Daxrajsinh
+Zalavadiya Keval
+Parekh Krunal
